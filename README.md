@@ -10,7 +10,9 @@
 ├── report/
 │   └── incident-report.md      ← Final incident report (Executive Summary, Victim, IOCs)
 ├── analysis/
+│   └── extracted-files.md
 │   └── wireshark-filters.md
+├── screeshots/
 ```
 
 ## Background
