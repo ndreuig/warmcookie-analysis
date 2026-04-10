@@ -1,6 +1,8 @@
 
 dhcp, bootp, nbns
 
+smb2 && ip.addr == 10.8.15.133
+
 dns
 dns.qry.name contains "checkfedexexp"
 
